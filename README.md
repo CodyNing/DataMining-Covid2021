@@ -1,5 +1,3 @@
-# This project is for CMPT459 Data Mining
-
 ## Starter code for Project
 - Follow the `eda.ipynb` in `src` folder.
 - Setup environment with `conda env create -f environment.yml`
