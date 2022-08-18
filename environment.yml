@@ -1,4 +1,4 @@
-name: cmpt459
+name: covid2021
 channels:
   - conda-forge
   - defaults
